@@ -1,9 +1,0 @@
-D:\Matvey\Work\Informatik\C#\MVP_Browser\MVP_Browser\bin\Debug\MVP_Browser.exe.config
-D:\Matvey\Work\Informatik\C#\MVP_Browser\MVP_Browser\bin\Debug\MVP_Browser.exe
-D:\Matvey\Work\Informatik\C#\MVP_Browser\MVP_Browser\bin\Debug\MVP_Browser.pdb
-D:\Matvey\Work\Informatik\C#\MVP_Browser\MVP_Browser\obj\Debug\MVP_Browser.csprojResolveAssemblyReference.cache
-D:\Matvey\Work\Informatik\C#\MVP_Browser\MVP_Browser\obj\Debug\MVP_Browser.Form1.resources
-D:\Matvey\Work\Informatik\C#\MVP_Browser\MVP_Browser\obj\Debug\MVP_Browser.Properties.Resources.resources
-D:\Matvey\Work\Informatik\C#\MVP_Browser\MVP_Browser\obj\Debug\MVP_Browser.csproj.GenerateResource.Cache
-D:\Matvey\Work\Informatik\C#\MVP_Browser\MVP_Browser\obj\Debug\MVP_Browser.exe
-D:\Matvey\Work\Informatik\C#\MVP_Browser\MVP_Browser\obj\Debug\MVP_Browser.pdb
